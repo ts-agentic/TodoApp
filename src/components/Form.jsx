@@ -20,7 +20,7 @@ function Form(props) {
     <form onSubmit={handleSubmit}>
       <h2 className="label-wrapper">
         <label htmlFor="new-todo-input" className="label__lg">
-          What you want to do?
+          What do you want to do?
         </label>
       </h2>
 
