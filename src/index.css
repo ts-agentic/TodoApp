@@ -170,13 +170,6 @@ body {
 .todoapp > form {
   max-width: 100%;
 }
-.todoapp > h1 {
-  display: block;
-  margin: 0;
-  margin-bottom: 1rem;
-  max-width: 100%;
-  text-align: center;
-}
 .label__lg {
   line-height: 1.01567;
   font-weight: 300;
